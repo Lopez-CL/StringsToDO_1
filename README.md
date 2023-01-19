@@ -1,0 +1,2 @@
+# Strings To Do 1 (Prompt)
+Write functions using the JavaScript language for all challenges. Use only a single JavaScript file for this assignment. Do not use built-in methods (unless otherwise instructed). (.length is a property, and is allowed.)
